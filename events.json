@@ -90,7 +90,7 @@
     "date": "07/11/2018",
     "hour": "6 pm",
     "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
-    "title": "Free pre-concert performance: Foyle Future Firsts",
+    "title": "Free pre-concert performance",
     "orchestra": "LPO Future Foyle First Programme",
     "where": "Royal Festival Hall, London",
     "programme": "Chamber programme inspired by the themes of the LPO's season",
@@ -107,10 +107,20 @@
     "date": "05/04/2019",
     "hour": "6 pm",
     "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
-    "title": "Free pre-concert performance: Foyle Future Firsts",
+    "title": "Free pre-concert performance",
     "orchestra": "LPO Future Foyle First Programme",
     "where": "Royal Festival Hall, London",
     "programme": "The Foyle Future Firsts bring their youthful energy to a celebration of British chamber music, as part of Isle of Noises",
     "more_info": "<a href=\"https://www.lpo.org.uk/whats-on-and-tickets/5261-free-preconcert-performance-foyle-future-firsts.html\" target=\"_blank\">What's on and tickets</a>"  
+  }, 
+  {
+    "date": "27/04/2019",
+    "hour": "6 pm",
+    "maps_link": "https://goo.gl/maps/XJ5uXb3W89H2",
+    "title": "Free pre-concert performance",
+    "orchestra": "LPO Future Foyle First Programme",
+    "where": "Royal Festival Hall, London",
+    "programme": "This year's LPO Junior Artists - perform British music alongside LPO members and Junior Artist alumni.",
+    "more_info": "<a href=\"http://www.lpo.org.uk/whats-on-and-tickets/5263-free-preconcert-performance-lpo-junior-artists.html\" target=\"_blank\">What's on and tickets</a>"  
   } 
 ]
